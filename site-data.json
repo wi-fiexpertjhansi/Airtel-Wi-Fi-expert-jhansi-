@@ -1,10 +1,41 @@
 {
   "title": "तेज़ इंटरनेट, हर घर के लिए।",
-  "description": "Wi-Fi और Air Fiber की जानकारी, प्लान और नए ऑफर्स — सब एक जगह।",
+  "description": "Airtel Wi-Fi Only Internet Plans • Unlimited Data • Wi-Fi Expert Jhansi",
   "phone": "9161555146",
   "logo": "",
   "wallpaper": "",
-  "catalogue": [],
+  "catalogue": [
+    {
+      "name": "01. Basic Plan – 40 Mbps",
+      "description": "Unlimited Data • Plan Price: ₹499/month • 18% GST: ₹90 • Final Price: ₹589/month",
+      "image": ""
+    },
+    {
+      "name": "02. Standard Plan – 100 Mbps",
+      "description": "Unlimited Data • Plan Price: ₹799/month • 18% GST: ₹144 • Final Price: ₹943/month",
+      "image": ""
+    },
+    {
+      "name": "03. Premium Plan – 100 Mbps",
+      "description": "Unlimited Data • Plan Price: ₹999/month • 18% GST: ₹180 • Final Price: ₹1,179/month",
+      "image": ""
+    },
+    {
+      "name": "04. Premium Plus Plan – 200 Mbps",
+      "description": "Unlimited Data • Plan Price: ₹999/month • 18% GST: ₹180 • Final Price: ₹1,179/month",
+      "image": ""
+    },
+    {
+      "name": "05. Superfast Plan – 300 Mbps",
+      "description": "Unlimited Data • Plan Price: ₹1,499/month • 18% GST: ₹270 • Final Price: ₹1,769/month",
+      "image": ""
+    },
+    {
+      "name": "06. Ultra Fast Plan – 1 Gbps (1000 Mbps)",
+      "description": "Unlimited Data • Plan Price: ₹3,999/month • 18% GST: ₹720 • Final Price: ₹4,719/month",
+      "image": ""
+    }
+  ],
   "offers": [],
   "gallery": []
 }

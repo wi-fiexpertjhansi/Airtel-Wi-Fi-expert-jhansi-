@@ -1,31 +1,13 @@
-WI-FI EXPERT JHANSI WEBSITE — UPLOAD GUIDE
+WI-FI EXPERT JHANSI — WEBSITE UPLOAD GUIDE
 
-इस ZIP में आपकी वेबसाइट की फाइलें हैं:
-1. index.html — मुख्य वेबसाइट
-2. admin.html — फोटो, Catalogue, Offer, Logo और Wallpaper अपलोड करने का पैनल
-3. styles.css, app.js, admin.js — वेबसाइट की डिजाइन और काम करने वाली फाइलें
-4. site-data.json — वेबसाइट का कंटेंट
-5. logo.svg — शुरुआती लोगो
+1. ZIP को Extract करें।
+2. GitHub पर मुफ्त repository बनाकर सभी फाइलें upload करें।
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save चुनें।
+4. GitHub Pages का URL आपकी live website होगी।
+5. Website के URL के आखिर में /admin.html खोलकर Logo, Wallpaper, Offers, Photos और Catalogue अपडेट करें।
+6. Admin panel में Export site-data.json दबाएं। डाउनलोड हुई site-data.json को GitHub में पुरानी फाइल से replace करके Commit changes करें।
 
-वेबसाइट मुफ्त में ऑनलाइन करने के लिए:
-1. GitHub.com पर मुफ्त अकाउंट बनाएं।
-2. New repository बनाएं। नाम: wifi-expert-jhansi
-3. इस ZIP को Extract करें और अंदर की सभी फाइलें/फोल्डर repository में Upload files से अपलोड करें।
-4. Commit changes दबाएं।
-5. Repository Settings > Pages खोलें।
-6. Deploy from a branch चुनें, Branch: main और Folder: / (root) चुनकर Save करें।
-7. GitHub Pages जो वेबसाइट लिंक देगा, उसे खोलें।
+इस वेबसाइट में छह Airtel Wi-Fi Only Internet plans जोड़े गए हैं। दोनों ₹999 वाले plans अलग-अलग दिखाए गए हैं: 100 Mbps और 200 Mbps। सभी Unlimited Data हैं, आपकी पुष्टि के अनुसार। हर प्लान में base price, 18% GST और GST सहित monthly total दिया गया है।
 
-फोटो/ऑफर/Catalogue अपडेट करने के लिए:
-1. वेबसाइट के URL के आखिर में /admin.html खोलें।
-2. जानकारी भरें और फोटो चुनें (हर फोटो 2 MB से कम रखें)।
-3. Export site-data.json दबाएं।
-4. GitHub repository में पुरानी site-data.json फाइल खोलकर Delete/Replace करें और नई डाउनलोड की हुई site-data.json अपलोड करें।
-5. Commit changes करें। कुछ मिनट में वेबसाइट अपडेट हो जाएगी।
-
-महत्वपूर्ण:
-- यह static website है। Admin पैनल में बदलाव पहले आपके ब्राउज़र में रहते हैं; सभी visitors को दिखाने के लिए Export करके site-data.json को hosting पर replace करना जरूरी है।
-- फोटो JSON फाइल में embed होती हैं; बहुत बड़ी या बहुत ज्यादा फोटो अपलोड न करें।
-- यह पैकेज hosting account अपने-आप नहीं बनाता। GitHub Pages पर मुफ्त hosting चालू करनी होगी।
-- Contact number अभी 9161555146 रखा है। Admin पैनल से बदल सकते हैं।
-- Airtel के logo/brand assets या offers तभी लगाएं जब उनके उपयोग की अनुमति हो। कीमत/ऑफर की शर्तें प्रकाशित करने से पहले जांच लें।
+Contact: 9161555146
+Offers, speeds, taxes and plan availability को publish करने से पहले provider से verify करें। लागू terms और fair-usage policy हो सकती है।
